@@ -20,7 +20,7 @@ The data collected from these two sources were combined into a final .csv file: 
 
 ## Analysis Result
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/HasnahSaid/data-512-a1/blob/main/wiki_traffic_2008_2021.png)
 
 ## License and Terms of Use 
 
